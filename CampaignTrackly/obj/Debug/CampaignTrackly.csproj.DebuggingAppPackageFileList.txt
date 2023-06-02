@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\CampaignTracklyManifest.xml
+D:\Project\CampaignTrackly\CampaignTrackly\CampaignTrackly\bin\Debug\CampaignTrackly.debugapp

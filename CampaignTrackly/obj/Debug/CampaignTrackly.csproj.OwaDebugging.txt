@@ -1,0 +1,7 @@
+False
+57106c15-69b0-425a-b804-1cd3abfb9c0c85ccc469-8a63-419d-8643-5259197a65e8
+{46c10adc-dbdd-4489-b6fb-2bdc37ec8dbd}{0ce51e24-2d0c-46bb-97e9-1cc36b25d1f7}
+{1511db33-b1c4-4a5a-a8e8-efa80b81c1da}
+1.0.0.0
+CampaignTrackly
+_layouts/15/

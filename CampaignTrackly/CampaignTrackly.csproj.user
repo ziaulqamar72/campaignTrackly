@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <GeneratedFeatureId>57106c15-69b0-425a-b804-1cd3abfb9c0c</GeneratedFeatureId>
+    <GeneratedPackageId>85ccc469-8a63-419d-8643-5259197a65e8</GeneratedPackageId>
+    <GeneratedModuleId>{46c10adc-dbdd-4489-b6fb-2bdc37ec8dbd}</GeneratedModuleId>
+    <GeneratedListId>{0ce51e24-2d0c-46bb-97e9-1cc36b25d1f7}</GeneratedListId>
+    <GeneratedProductId>{1511db33-b1c4-4a5a-a8e8-efa80b81c1da}</GeneratedProductId>
+    <GeneratedAppVersion>1.0.0.0</GeneratedAppVersion>
+    <GeneratedClientSecret>2VX8WRqq2iUjlSbb574M1ZwZbdW51GLzlniXn6K3K9E=</GeneratedClientSecret>
+    <OfficeAndSharePointStartAction>OfficeDesktopClient</OfficeAndSharePointStartAction>
+  </PropertyGroup>
+</Project>

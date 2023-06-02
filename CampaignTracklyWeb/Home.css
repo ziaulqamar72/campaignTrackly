@@ -1,0 +1,85 @@
+﻿/* Page-specific styling */
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    margin: 0 0 40px; /* bottom = footer height */
+}
+.footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 40px;
+    width: 100%;
+}
+
+.padding {
+    padding: 15px;
+}
+
+#notification-popup.MessageBanner {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    text-align: left;
+    height: inherit;
+    min-width: inherit;
+}
+
+#notification-popup .MessageBanner-text {
+    margin: 0;
+    padding: 18px 15px;
+    min-width: inherit;
+}
+.loader {
+    z-index: 150;
+    left: 43%;
+    top: 160px;
+    width: 48px;
+    height: 48px;
+    border: 3px solid #22b300;
+    border-radius: 50%;
+    display: none;
+    position: fixed;
+    box-sizing: border-box;
+    animation: rotation 1s linear infinite;
+}
+
+    .loader::after {
+        content: '';
+        box-sizing: border-box;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        width: 56px;
+        height: 56px;
+        border-radius: 50%;
+        border: 3px solid;
+        border-color: #198754 transparent;
+    }
+
+@keyframes rotation {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+#dropdownMenuButton1:focus{
+    border:none;
+}
+
+#dropdownMenuButton1:checked {
+    border: none;
+}
+
+.circle {
+    position: relative;
+    display: block;
+    margin: auto;
+}
